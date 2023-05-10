@@ -1,4 +1,5 @@
-
+import Problema1
+from alumnos import alumnos
 '''
 Hasta ahora hemos
 trabajado con variables
@@ -55,5 +56,15 @@ if __name__ == '__main__':
     print(lista1)
 
     print(lista1[3])
+
+    print()
+
+    Problema1.sumar_5_enteros()
+
+    print()
+
+    alumnos()
+
+
 
 
